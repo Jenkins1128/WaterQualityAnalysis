@@ -1,5 +1,7 @@
 # Water Quality Analysis
 
+Isaiah Jenkins
+
 ## Project Overview
 
 This project involves an Exploratory Data Analysis (EDA) of the California Department of Water Resources water sample dataset, focusing on chemical and physical parameters of water sources across California. The primary goal was to analyze key attributes, such as the 'parameter' (measured constituent) and 'result' (measured value), with a specific focus on pH levels in relation to sample depth. The analysis was conducted using Python, leveraging libraries like Pandas, NumPy, Matplotlib, Seaborn, and SciPy for data processing, statistical analysis, and visualization.
